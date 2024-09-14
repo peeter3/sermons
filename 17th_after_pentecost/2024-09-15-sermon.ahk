@@ -3,6 +3,8 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ; OT Is. 50:4–10
 ; Epistle James 3:1–12
 ; Holy Gospel (sermon) Mark 9:14–29
+::bitl::Belovèd in the Lord
+::bl::blessèd
 ^+!a:: ; Mark 7:28
 {
     Send "Even the dogs under the table eat the children's crumbs."
@@ -10,22 +12,6 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ^!a:: ; Mark 7:28
 {
     Send "even the dogs under the table eat the children's crumbs."
-}
-^+!b::
-{
-    Send "Belovèd in the Lord"
-}
-^!b::
-{
-    Send "belovèd in the Lord"
-}
-^+!c:: ; John 6:35,48
-{
-    Send "Blessèd"
-}
-^!c:: ; John 6:35,48
-{
-    Send "blessèd"
 }
 ^+!h::
 {

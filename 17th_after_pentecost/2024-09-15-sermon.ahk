@@ -8,15 +8,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::cd::Can't deny it cuz God says it
 ^+!a:: ; Mark 7:28
 {
-    Send "Even the dogs under the table eat the children's crumbs."
-}
-^!a:: ; Mark 7:28
-{
-    Send "even the dogs under the table eat the children's crumbs."
-}
-^+!h::
-{
-    Send "This is our faith"
+    Send "If You can do anything, have compassion on us and help us."
 }
 ^!h::
 {

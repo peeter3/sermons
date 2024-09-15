@@ -5,6 +5,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ; Holy Gospel (sermon) Mark 9:14–29
 ::bitl::Belovèd in the Lord
 ::bl::blessèd
+::cd::Can't deny it cuz God says it
 ^+!a:: ; Mark 7:28
 {
     Send "Even the dogs under the table eat the children's crumbs."

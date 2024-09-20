@@ -28,10 +28,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!w::
 {
-    Send "what comes of it?"
+    Send "who's first in line?"
 }
 ^+!w::
 {
-    Send "What comes of it?"
+    Send "Who's first in line?"
 }
 

@@ -12,7 +12,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!h::
 {
-    Send "this is our faith"
+    Send "hidden, but most certainly there"
 }
 ^!l::
 {

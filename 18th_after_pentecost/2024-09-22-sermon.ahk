@@ -6,10 +6,6 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::bitl::Belovèd in the Lord
 ::bl::blessèd
 ::cd::Can't deny it cuz God says it
-^+!a:: ; Mark 7:28
-{
-    Send "If You can do anything, have compassion on us and help us."
-}
 ^!h::
 {
     Send "hidden, but most certainly there"

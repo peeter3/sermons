@@ -6,7 +6,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::bitl::Belovèd in the Lord
 ::bl::blessèd
 ::cd::Can't deny it cuz God says it
-^!d:: ; Walther said this about the effect of the Gospel
+^+!a::
+{
+    Send "Alleluia!"
+}^!d:: ; Walther said this about the effect of the Gospel
 {
     Send "demands nothing but gives all"
 }

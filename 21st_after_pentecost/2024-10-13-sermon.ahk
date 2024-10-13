@@ -1,14 +1,14 @@
 ﻿#Requires AutoHotkey v2.0
 MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8)
-; OT Is. 50:4–10
-; Epistle James 3:1–12
-; Holy Gospel (sermon) Mark 9:14–29
+; OT   Amos 5:6-7, 10-15
+; Epistle Heb. 3:12-19
+; Holy Gospel (sermon) Mark 10:17-22 
 ::bitl::Belovèd in the Lord
 ::bl::blessèd
 ::cd::Can't deny it cuz God says it
-^!h::
+^!d:: ; Walther said this about the effect of the Gospel
 {
-    Send "hidden, but most certainly there"
+    Send "demands nothing but gives all"
 }
 ^!l::
 {

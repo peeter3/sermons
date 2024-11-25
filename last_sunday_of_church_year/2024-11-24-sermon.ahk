@@ -45,7 +45,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!l::
 {
-    Send "DON'T GIVE UP"
+    Send "JESUS LOVES YOU BUT I'M HIS FAVORITE."
 }
 ^+!l::
 {
@@ -61,7 +61,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "JESUS LOVES YOU BUT I'M HIS FAVORITE."
+    Send "THE SON OF MAN IS NEAR, AT THE VERY GATES."
 }
 ^+!t:: ; Heb. 4:7b
 {

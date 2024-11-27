@@ -39,6 +39,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "**making peace by the blood of His Cross** (Col. 1:19b)" ; propitiation
 }
+::tu::
+{
+    Send "Thank You, Jesus{!}"
+}
 ^+!a::
 {
     Send "Alleluia{!}"

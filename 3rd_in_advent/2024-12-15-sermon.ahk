@@ -45,7 +45,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!l::
 {
-    Send "WE WISH TO SERVE THE RIGHTEOUS BRANCH OF DAVID"
+    Send "THE KINGDOM OF CHRIST STILL COMES"
 }
 ^+!l::
 {
@@ -61,7 +61,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "THE KINGDOM OF CHRIST STILL COMES"
+    Send "BLESSÈD IS THE ONE WHO IS NOT OFFENDED BY ME"
 }
 ^+!t:: ; Heb. 4:7b
 {

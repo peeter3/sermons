@@ -45,7 +45,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!l::
 {
-    Send "JOSEPH, SON OF DAVID, DO NOT FEAR TO TAKE MARY AS YOUR WIFE."
+    Send "BEHOLD, THIS CHILD IS APPOINTED FOR THE FALL AND RISING OF MANY."
 }
 ^+!l::
 {
@@ -61,7 +61,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "BEHOLD, THIS CHILD IS APPOINTED FOR THE FALL AND RISING OF MANY"
+    Send "THE LIFE WAS MADE MANIFEST, AND WE HAVE SEEN IT."
 }
 ^+!t:: ; Heb. 4:7b
 {

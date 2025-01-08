@@ -61,7 +61,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "I GIVE YOU WHAT IS MINE AND TAKE WHAT IS YOURS"
+    Send "I GIVE YOU WHAT IS MINE AND TAKE WHAT IS YOURS."
 }
 ^+!t:: ; Heb. 4:7b
 {

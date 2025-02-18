@@ -31,6 +31,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Friends of Christ"
 }
+::gs::
+{
+    Send "God said it. I believe it. That settles it."
+}
 ::mp::
 {
     Send "**making peace by the blood of His Cross** (Col. 1:19b)" ; propitiation

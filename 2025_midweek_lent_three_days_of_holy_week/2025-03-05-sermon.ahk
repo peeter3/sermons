@@ -23,6 +23,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "**`"I am the LORD; I have spoken, and I will do it`"** (Ezek. 17:24b)."
 }
+::du::
+{
+    Send "**you are dust, and to dust you shall return**"
+}
 ::hr::
 {
     Send "He is risen{!} He is risen indeed{!} Alleluia{!}"
@@ -49,7 +53,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!l::
 {
-    Send "BUT LOVE YOUR ENEMIES AND EXPECT NOTHING IN RETURN"
+    Send "DIFFERENT, BUT THE SAME"
 }
 ^+!l::
 {
@@ -65,7 +69,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "DIFFERENT, BUT THE SAME"
+    Send "RETURN TO DUST"
 }
 ^+!t:: ; Heb. 4:7b
 {

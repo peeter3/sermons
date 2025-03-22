@@ -47,13 +47,17 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Alleluia{!}"
 }
+^!b::
+{
+    Send "by the grace of the Spirit"
+}
 ^!d:: ; Walther said this about the effect of the Gospel
 {
     Send "demands nothing but gives all"
 }
 ^!l::
 {
-    Send "DIFFERENT, BUT THE SAME"
+    Send "TEMPTED AS WE ARE, AND VICTORIOUS"
 }
 ^+!l::
 {
@@ -69,7 +73,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "TEMPTED AS WE ARE, AND VICTORIOUS"
+    Send "O JERUSALEM, JERUSALEM"
 }
 ^+!t:: ; Heb. 4:7b
 {

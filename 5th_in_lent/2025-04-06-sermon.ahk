@@ -55,6 +55,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "demands nothing but gives all"
 }
+^+!h::
+{
+    Send "The Lord is building a house."
+}
 ^!l::
 {
     Send "JOY BEFORE THE ANGELS, JOY BEFORE THE FATHER"

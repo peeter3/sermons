@@ -19,6 +19,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Can't deny it cuz God says it"
 }
+::cr::
+{
+    Send "Christ is risen{!} He is risen indeed{!} Alleluia{!}"
+}
 ::di::
 {
     Send "dies as we do, and victorious"
@@ -26,10 +30,6 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::doit::
 {
     Send "**`"I am the LORD; I have spoken, and I will do it`"** (Ezek. 17:24b)."
-}
-::hr::
-{
-    Send "He is risen{!} He is risen indeed{!} Alleluia{!}"
 }
 ::fc::
 {
@@ -42,6 +42,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::mp::
 {
     Send "**making peace by the blood of His Cross** (Col. 1:19b)" ; propitiation
+}
+::ws:: ; Luke 24:5b
+{
+    Send "**Why do you seek the living among the dead? He is not here, but has risen.**"
 }
 ^+!a::
 {

@@ -27,6 +27,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "dies as we do, and victorious"
 }
+::dk::
+{
+    Send "Did you know that is in the Bible?"
+}
 ::doit::
 {
     Send "**`"I am the LORD; I have spoken, and I will do it`"** (Ezek. 17:24b)."
@@ -70,6 +74,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ^+!l::
 {
     Send "Lord Jesus, You can do it"
+}
+^!n::
+{
+    Send "never, never, no, not ever"
 }
 ^+!p::
 {

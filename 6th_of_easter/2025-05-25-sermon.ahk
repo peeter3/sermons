@@ -1,8 +1,8 @@
 ﻿#Requires AutoHotkey v2.0
 MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8)
-; OT   Dan. 7:9-10, 13-14
-; Epistle Jude 20-25
-; Holy Gospel (sermon) Mark 13:24-37
+; First   Acts 16:9-15
+; Epistle Rev. 21:9-14, 21-27
+; Holy Gospel (sermon) John 16:23-33
 ::4giv::
 {
     Send "**as the Lord has forgiven you, so you also must forgive** (Col. 3:13b)"

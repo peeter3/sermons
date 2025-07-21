@@ -39,6 +39,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "God said it. I believe it. That settles it."
 }
+::ma::
+{
+    Send "more alive"
+}
 ::mp::
 {
     Send "**making peace by the blood of His Cross** (Col. 1:19b)" ; propitiation
@@ -62,6 +66,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ^+!h::
 {
     Send "The Lord is building a house."
+}
+^+!i::
+{
+    Send "I want to live, don't I?"
 }
 ^!l::
 {
@@ -91,8 +99,6 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "where Christ is death is not"
 }
-^+!w::
-{
-    Send "Where Christ is death is not"
-}
+
+
 

@@ -7,6 +7,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "**as the Lord has forgiven you, so you also must forgive** (Col. 3:13b)"
 }
+::bf::
+{
+    Send "by faith" ; repeated in Heb. 11
+}
 ::bitl::
 {
     Send "Belovèd in the Lord"
@@ -30,10 +34,18 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 ::doit::
 {
     Send "**`"I am the LORD; I have spoken, and I will do it`"** (Ezek. 17:24b)."
+}   
+::ea::
+{
+    Send "Everything's gonna be alright."
 }
 ::fc::
 {
     Send "Friends of Christ"
+}
+::io::
+{
+    Send "It's okay."
 }
 ::gs::
 {

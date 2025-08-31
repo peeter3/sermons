@@ -47,6 +47,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "**making peace by the blood of His Cross** (Col. 1:19b)" ; propitiation
 }
+::sn::
+{
+    Send "Someone, not you"
+}
 ::ws:: ; Luke 24:5b
 {
     Send "**Why do you seek the living among the dead? He is not here, but has risen.**"

@@ -77,7 +77,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!l::
 {
-    Send "WE'LL SEE ABOUT THAT"
+    Send "THEIR WORKS CRY OUT FOR MERCY"
 }
 ^+!l::
 {
@@ -93,7 +93,7 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 }
 ^!t::
 {
-    Send "THEIR WORKS CRY OUT FOR MERCY"
+    Send "COUNT THE COST OF DISCIPLESHIP"
 }
 ^+!t:: ; Heb. 4:7b
 {

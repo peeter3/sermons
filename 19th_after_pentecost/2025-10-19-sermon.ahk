@@ -27,6 +27,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Does anything I do cause a believer to sin?"
 }
+::dgu::
+{
+    Send "don't give up"
+}
 ::di::
 {
     Send "dies as we do, and victorious"

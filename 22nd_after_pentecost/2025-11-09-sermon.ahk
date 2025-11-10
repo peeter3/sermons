@@ -119,6 +119,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Today, if you hear His voice, do not harden your hearts."
 }
+^!y::
+{
+    Send "I AM"
+}
 ^!w::
 {
     Send "where Christ is death is not"

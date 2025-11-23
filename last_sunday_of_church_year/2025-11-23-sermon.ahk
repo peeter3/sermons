@@ -91,9 +91,17 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "The Lord is building a house."
 }
+^!i::
+{
+    Send "it happened once and it will happen again"
+}
 ^+!i::
 {
     Send "I want to live, don't I?"
+}
+^!k:: ; sermon title from last Palm Sunday
+{
+    Send "HE SAVED OTHERS; LET HIM SAVE HIMSELF."
 }
 ^!l::
 {

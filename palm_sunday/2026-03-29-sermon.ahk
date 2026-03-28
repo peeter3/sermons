@@ -59,6 +59,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "*Nice job{!}*"
 }
+::og::
+{
+    Send "Oh give thanks to the LORD, for He is good; for His steadfast love endures forever{!}"
+}
 ::sn::
 {
     Send "Someone, not you"

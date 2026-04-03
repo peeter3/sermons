@@ -15,6 +15,10 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "blessèd"
 }
+::bu::
+{
+    Send "beyond our understanding"
+}
 ::cd::
 {
     Send "Can't deny it cuz God says it"
@@ -63,9 +67,13 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "Oh give thanks to the LORD, for He is good; for His steadfast love endures forever{!}"
 }
-::sn::
+::sdd::
 {
-    Send "Someone, not you"
+    Send "sin, devil, and death"
+}
+::sf::
+{
+    Send "*Our Lord sticks to His Father* the whole time."
 }
 ::ty::
 {

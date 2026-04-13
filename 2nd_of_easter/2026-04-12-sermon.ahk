@@ -47,6 +47,14 @@ MsgBox Format("You are using AutoHotkey v{1} {2}-bit", A_AhkVersion, A_PtrSize*8
 {
     Send "God said it. I believe it. That settles it."
 }
+::inj::
+{
+    Send "in the name of Jesus"
+}
+::injrd::
+{
+    Send "in the name of Jesus, who is risen from the dead"
+}
 ::ma::
 {
     Send "more alive"
